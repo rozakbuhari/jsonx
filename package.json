@@ -1,0 +1,31 @@
+{
+  "name": "jsonx",
+  "version": "1.0.0",
+  "description": "Write react project in json",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rozakbuhari/jsonx.git"
+  },
+  "keywords": [
+    "jsonx",
+    "json",
+    "react",
+    "jsx",
+    "builder",
+    "react-native",
+    "next.js"
+  ],
+  "author": "Fathurozak Buhari <rozakbuhari@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rozakbuhari/jsonx/issues"
+  },
+  "homepage": "https://github.com/rozakbuhari/jsonx#readme",
+  "workspaces": [
+    "packages/core"
+  ]
+}
